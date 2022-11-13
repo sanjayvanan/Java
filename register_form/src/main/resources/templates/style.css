@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+label{
+  background-color:whitesmoke ;  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(0, 0, 0);
+  
+}
+h1{
+    background-color: grey;
+}
+button:hover{
+    background-color:slategray;
+    border-radius:5px;
+    text-shadow: slategray;
+}
